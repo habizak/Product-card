@@ -63,7 +63,7 @@ button:hover {
 }
 
 .description-wrapper {
-  padding: 16px;
+  padding: 16px 16px 8px;
   display: flex;
   flex-direction: column;
   gap: 14px;
